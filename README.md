@@ -18,10 +18,7 @@ This project predicts future retail demand using time-series forecasting and pro
 ![Components](components.png)
 
 ### Controls Panel
-![Controls](controls.png)
-
-### Table View
-![Table](table_view.png)
+![Controls](controls.png) 
 
 ---
 
