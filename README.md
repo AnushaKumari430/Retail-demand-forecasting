@@ -1,6 +1,29 @@
 # Retail Demand Forecasting Dashboard
 
 This project predicts future retail demand using time-series forecasting and provides an interactive dashboard.
+---
+
+## 🚀 Dashboard Preview
+
+### Main Dashboard
+![Main](dashboard_main.png)
+
+### Forecast Chart
+![Forecast](forecast_chart.png)
+
+### Key Metrics
+![Metrics](metrics.png)
+
+### Trend & Seasonality
+![Components](components.png)
+
+### Controls Panel
+![Controls](controls.png)
+
+### Table View
+![Table](table_view.png)
+
+---
 
 ## Features
 - Forecast future sales using Prophet
