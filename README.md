@@ -42,6 +42,10 @@ This project predicts future retail demand using time-series forecasting and pro
 2. Run the app:
    python -m streamlit run app.py
 
+ ## 🔄 Retraining the Model
+
+python train_model.py
+
 ## Output
 - Sales forecast graph
 - Key metrics
